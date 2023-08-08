@@ -4,7 +4,7 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist.
 
 Problem Statement 
 
-AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his clients, which has several branches throughout India. Its fasical year starts from April. 
+AtliQ Technology is a company its fasical year starts from April. 
 
 Requirements
 
