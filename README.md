@@ -6,7 +6,7 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist. You can
 
 # Problem Statement 
 
-AtliQ Technology is a company its fasical year starts from April. 
+AtliQ Technology is a company its fiscal year starts from April. 
 
 # Requirements
 
